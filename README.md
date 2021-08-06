@@ -57,18 +57,18 @@ Tanks goes to Hanyang Univiersity students team:
  
 ## Contents
 
-- [Mobile Phone](###Mobile-Phone)
-  - [Splash & Login](####Splash-&-Login)
-  - [Tutorial](####Tutorial)
-  - [Friends List](####Friends-List)
-  - [Chat Room List](####Chat-Room-List)
-  - [Chat Room](####Chating-Room)
-  - [Image Processing](####Image-Processing)
-  - [PACS System](####PACS-System)
-  - [Dark Mode](####Dark-Mode)
-- [Tablet](###Tablet)
-  - [Main & PACS System](####Main-&-PACS-System)
-  - [Chat Room & PACS System](####Chat-Room-&-PACS-System)
+- [Mobile Phone](#Mobile-Phone)
+  - [Splash & Login](#Splash-&-Login)
+  - [Tutorial](#Tutorial)
+  - [Friends List](#Friends-List)
+  - [Chat Room List](#Chat-Room-List)
+  - [Chat Room](#Chating-Room)
+  - [Image Processing](#Image-Processing)
+  - [PACS System](#PACS-System)
+  - [Dark Mode](#Dark-Mode)
+- [Tablet](#Tablet)
+  - [Main & PACS System](#Main--PACS-System)
+  - [Chat Room & PACS System](####Chat-Room--PACS-System)
 
 ---
 
